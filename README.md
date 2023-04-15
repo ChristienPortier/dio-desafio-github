@@ -9,5 +9,6 @@ Este repositório será usado para armazenar minha evolução no Bootcamp Potên
 (12/04/23) Praticando com objetos e classes <br/>
 (13/04/23) Aula Importacao e Exportacao (exercicios) <br/>
 (14/04/23) Aula introducao ao desenvolvimento web com JavaScript. <br/>
+(14/04/23) Aula Criando um Projeto com HTML/CSS para Listagem de Pokémon. <br/>
 
 [Links uteis](https://www.markdownguide.org/cheat-sheet/)
