@@ -10,5 +10,7 @@ Este repositório será usado para armazenar minha evolução no Bootcamp Potên
 (13/04/23) Aula Importacao e Exportacao (exercicios) <br/>
 (14/04/23) Aula introducao ao desenvolvimento web com JavaScript. <br/>
 (14/04/23) Aula Criando um Projeto com HTML/CSS para Listagem de Pokémon. <br/>
+(15/04/23) Aula Dominando o Protocolo HTTP e Integrando com a PokeAPI. <br/>
+(16/04/23) Revisando aulas do dia 14 e 15. <br/>
 
 [Links uteis](https://www.markdownguide.org/cheat-sheet/)
