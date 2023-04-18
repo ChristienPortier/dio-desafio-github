@@ -13,4 +13,4 @@ Este repositório será usado para armazenar minha evolução no Bootcamp Potên
 (15/04/23) Aula Dominando o Protocolo HTTP e Integrando com a PokeAPI. <br/>
 (16/04/23) Revisando aulas do dia 14 e 15. <br/>
 
-[Links uteis](https://www.markdownguide.org/cheat-sheet/)
+[Link md guide](https://www.markdownguide.org/cheat-sheet/)
