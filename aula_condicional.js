@@ -24,4 +24,3 @@ if (tipoCombustivel === 'Etanol'){
     console.log(valorGasto.toFixed(2));
 }
 
-
